@@ -1,1 +1,2 @@
 archivo sin squash
+archivo con squash
