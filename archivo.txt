@@ -1,1 +1,2 @@
 Contenido sin fastforward
+Contenido con fastforward
