@@ -1,1 +1,2 @@
 archivo con merge
+archivo con rebase
